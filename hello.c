@@ -6,8 +6,8 @@ void main(){
     printf("i am shyamilisn \n");
     printf("Im Surya\n");
     printf("Im Shalini\n");
-    printf("I am Chandan\n");
     printf("I am sudha\n");
     printf("I AM AKHIL RAJ");
-    printf("haii idiots");
+    printf("hello\n");
+    printf("haii idiots\n");
 }
