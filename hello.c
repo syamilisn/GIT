@@ -4,6 +4,7 @@ void main(){
     printf("heyo \n");
 
  printf("modified changes here\n");
+ printf("haii idiots\n");
     
     printf("[patch1] added line");
 }
