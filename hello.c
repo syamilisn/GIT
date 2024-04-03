@@ -10,4 +10,6 @@ void main(){
     printf("I AM AKHIL RAJ");
     printf("hello\n");
     printf("haii idiots\n");
+    
+    printf("[patch1] added line");
 }

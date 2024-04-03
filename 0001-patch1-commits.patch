@@ -1,0 +1,42 @@
+From b582cf59188822ef81fc2d6863a9161faf2a6409 Mon Sep 17 00:00:00 2001
+From: syamilisn <shyamilisn.itfa@gmail.com>
+Date: Mon, 22 May 2023 12:31:07 +0530
+Subject: [PATCH] patch1 commits
+
+---
+ changes.patch | 11 +++++++++++
+ hello.c       |  2 ++
+ 2 files changed, 13 insertions(+)
+ create mode 100644 changes.patch
+
+diff --git a/changes.patch b/changes.patch
+new file mode 100644
+index 0000000..ba183cc
+--- /dev/null
++++ b/changes.patch
+@@ -0,0 +1,11 @@
++diff --git a/hello.c b/hello.c
++index 1868f9a..3f16a1e 100644
++--- a/hello.c
+++++ b/hello.c
++@@ -10,4 +10,6 @@ void main(){
++     printf("I AM AKHIL RAJ");
++     printf("hello\n");
++     printf("haii idiots\n");
+++    
+++    printf("[patch1] added line");
++ }
+diff --git a/hello.c b/hello.c
+index 1868f9a..3f16a1e 100644
+--- a/hello.c
++++ b/hello.c
+@@ -10,4 +10,6 @@ void main(){
+     printf("I AM AKHIL RAJ");
+     printf("hello\n");
+     printf("haii idiots\n");
++    
++    printf("[patch1] added line");
+ }
+-- 
+2.25.1
+

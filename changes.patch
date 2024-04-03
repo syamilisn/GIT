@@ -1,0 +1,11 @@
+diff --git a/hello.c b/hello.c
+index 1868f9a..3f16a1e 100644
+--- a/hello.c
++++ b/hello.c
+@@ -10,4 +10,6 @@ void main(){
+     printf("I AM AKHIL RAJ");
+     printf("hello\n");
+     printf("haii idiots\n");
++    
++    printf("[patch1] added line");
+ }
